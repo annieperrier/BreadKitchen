@@ -1,8 +1,8 @@
-# BreadKitchen
+# BreadKitchen - A 2D Phaser Game
 
 Phaser game to gather ingredients and bake bread.
 
-Structure created using `generator-phaser v0.47.0` `https://github.com/julien/generator-phaser`
+Structure created using [generator-phaser-browserify@0.3.6](https://github.com/jroblak/generator-phaser-browserify).
 
 November 2016
 
